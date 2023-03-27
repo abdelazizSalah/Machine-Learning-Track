@@ -9,7 +9,7 @@
   * DataTypes
 
 ### Series
-* all elements must be of the same data type
+* elements can be of different data types. 
 * 1D vector
 * either one row
 * or one column
